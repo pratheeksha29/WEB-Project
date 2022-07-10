@@ -172,6 +172,7 @@ transition: all ease 0.5s;
         display:inline;
         float:none;
         font-family: Snell Roundhand, cursive;
+        font-weight: 500px;
         
       }
       ul.topnav.responsive li a{
